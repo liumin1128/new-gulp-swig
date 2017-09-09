@@ -7,7 +7,7 @@ demo：[http://liumin.win/new-gulp-swig/](http://liumin.win/new-gulp-swig/)
 安装依赖
 
 ```
-yarn add 或者 npm install
+yarn install 或者 npm install
 
 bower install
 ```
