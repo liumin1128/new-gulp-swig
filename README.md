@@ -2,6 +2,8 @@
 
 静态多页面实现模块化开发的推荐方案。
 
+demo：[http://liumin.win/new-gulp-swig/](http://liumin.win/new-gulp-swig/)
+
 安装依赖
 
 ```
